@@ -1006,5 +1006,905 @@
                 "answer": "Rafael Nadal"
             }
         ]
+    },
+    {
+        "category": "Rock Music",
+        "questions": [
+            {
+                "question": "Which rock band released the album 'Dark Side of the Moon'?",
+                "options": [
+                    "Led Zeppelin",
+                    "The Rolling Stones",
+                    "Pink Floyd",
+                    "The Beatles"
+                ],
+                "answer": "Pink Floyd"
+            },
+            {
+                "question": "Who is known as the 'King of Rock and Roll'?",
+                "options": [
+                    "Elvis Presley",
+                    "Chuck Berry",
+                    "Buddy Holly",
+                    "Jerry Lee Lewis"
+                ],
+                "answer": "Elvis Presley"
+            },
+            {
+                "question": "Which rock band released the hit song 'Stairway to Heaven'?",
+                "options": [
+                    "The Who",
+                    "AC/DC",
+                    "Led Zeppelin",
+                    "Queen"
+                ],
+                "answer": "Led Zeppelin"
+            },
+            {
+                "question": "Who is the lead guitarist of the rock band Queen?",
+                "options": [
+                    "Brian May",
+                    "Eddie Van Halen",
+                    "Jimi Hendrix",
+                    "Eric Clapton"
+                ],
+                "answer": "Brian May"
+            },
+            {
+                "question": "Which rock band released the album 'Abbey Road'?",
+                "options": [
+                    "The Beatles",
+                    "The Doors",
+                    "The Beach Boys",
+                    "The Rolling Stones"
+                ],
+                "answer": "The Beatles"
+            },
+            {
+                "question": "Who is the lead vocalist of the rock band Aerosmith?",
+                "options": [
+                    "Steven Tyler",
+                    "Bon Scott",
+                    "Freddie Mercury",
+                    "Robert Plant"
+                ],
+                "answer": "Steven Tyler"
+            },
+            {
+                "question": "Which rock band released the song 'Bohemian Rhapsody'?",
+                "options": [
+                    "Pink Floyd",
+                    "Led Zeppelin",
+                    "The Rolling Stones",
+                    "Queen"
+                ],
+                "answer": "Queen"
+            },
+            {
+                "question": "Who is the lead singer of the band U2?",
+                "options": [
+                    "Bono",
+                    "Chris Martin",
+                    "Dave Grohl",
+                    "Thom Yorke"
+                ],
+                "answer": "Bono"
+            },
+            {
+                "question": "Which rock band released the album 'Back in Black'?",
+                "options": [
+                    "AC/DC",
+                    "Metallica",
+                    "Guns N' Roses",
+                    "Nirvana"
+                ],
+                "answer": "AC/DC"
+            },
+            {
+                "question": "Who is the lead guitarist of the band Guns N' Roses?",
+                "options": [
+                    "Slash",
+                    "Jimmy Page",
+                    "Angus Young",
+                    "Keith Richards"
+                ],
+                "answer": "Slash"
+            },
+            {
+                "question": "Which rock band released the album 'The Joshua Tree'?",
+                "options": [
+                    "U2",
+                    "Coldplay",
+                    "Radiohead",
+                    "The Cure"
+                ],
+                "answer": "U2"
+            },
+            {
+                "question": "Who is the lead singer of the rock band Nirvana?",
+                "options": [
+                    "Kurt Cobain",
+                    "Eddie Vedder",
+                    "Chris Cornell",
+                    "Dave Grohl"
+                ],
+                "answer": "Kurt Cobain"
+            },
+            {
+                "question": "Which rock band released the hit song 'Smells Like Teen Spirit'?",
+                "options": [
+                    "Nirvana",
+                    "Pearl Jam",
+                    "Soundgarden",
+                    "Red Hot Chili Peppers"
+                ],
+                "answer": "Nirvana"
+            },
+            {
+                "question": "Who is the lead vocalist of the band The Rolling Stones?",
+                "options": [
+                    "Mick Jagger",
+                    "Roger Daltrey",
+                    "Robert Plant",
+                    "Freddie Mercury"
+                ],
+                "answer": "Mick Jagger"
+            },
+            {
+                "question": "Which rock band released the album 'Hotel California'?",
+                "options": [
+                    "The Eagles",
+                    "Fleetwood Mac",
+                    "The Doors",
+                    "Creedence Clearwater Revival"
+                ],
+                "answer": "The Eagles"
+            }
+        ]
+    },
+    {
+        "category": "Hip-Hop Music",
+        "questions": [
+            {
+                "question": "Who is often referred to as the 'King of Hip Hop'?",
+                "options": [
+                    "Eminem",
+                    "Jay-Z",
+                    "Tupac Shakur",
+                    "The Notorious B.I.G."
+                ],
+                "answer": "Eminem"
+            },
+            {
+                "question": "Which hip hop group released the album 'Straight Outta Compton'?",
+                "options": [
+                    "N.W.A",
+                    "Wu-Tang Clan",
+                    "Outkast",
+                    "Public Enemy"
+                ],
+                "answer": "N.W.A"
+            },
+            {
+                "question": "Who is known as the 'Godfather of Gangsta Rap'?",
+                "options": [
+                    "Ice Cube",
+                    "Dr. Dre",
+                    "Snoop Dogg",
+                    "Ice-T"
+                ],
+                "answer": "Ice-T"
+            },
+            {
+                "question": "Which hip hop artist released the album 'The Marshall Mathers LP'?",
+                "options": [
+                    "Eminem",
+                    "Kanye West",
+                    "Nas",
+                    "50 Cent"
+                ],
+                "answer": "Eminem"
+            },
+            {
+                "question": "Who won the Grammy for Best Rap Album in 2020 with the album 'IGOR'?",
+                "options": [
+                    "Tyler, The Creator",
+                    "Kendrick Lamar",
+                    "J. Cole",
+                    "Drake"
+                ],
+                "answer": "Tyler, The Creator"
+            },
+            {
+                "question": "Which hip hop artist released the album 'The Blueprint'?",
+                "options": [
+                    "Jay-Z",
+                    "Kanye West",
+                    "Nas",
+                    "Eminem"
+                ],
+                "answer": "Jay-Z"
+            },
+            {
+                "question": "Which hip hop group released the album 'Enter the Wu-Tang (36 Chambers)'?",
+                "options": [
+                    "Wu-Tang Clan",
+                    "N.W.A",
+                    "Public Enemy",
+                    "Outkast"
+                ],
+                "answer": "Wu-Tang Clan"
+            },
+            {
+                "question": "Who is known as the 'Queen of Hip Hop Soul'?",
+                "options": [
+                    "Mary J. Blige",
+                    "Missy Elliott",
+                    "Lauryn Hill",
+                    "Queen Latifah"
+                ],
+                "answer": "Mary J. Blige"
+            },
+            {
+                "question": "Which hip hop artist released the album 'Good Kid, M.A.A.D City'?",
+                "options": [
+                    "Kendrick Lamar",
+                    "Drake",
+                    "J. Cole",
+                    "Chance the Rapper"
+                ],
+                "answer": "Kendrick Lamar"
+            },
+            {
+                "question": "Who won the Grammy for Best Rap Song in 2021 with the song 'Savage'?",
+                "options": [
+                    "Megan Thee Stallion",
+                    "Cardi B",
+                    "Drake",
+                    "Travis Scott"
+                ],
+                "answer": "Megan Thee Stallion"
+            },
+            {
+                "question": "Which hip hop artist won the Grammy for Best New Artist in 2019?",
+                "options": [
+                    "Cardi B",
+                    "Post Malone",
+                    "Travis Scott",
+                    "Lizzo"
+                ],
+                "answer": "Lizzo"
+            },
+            {
+                "question": "Which hip hop group released the album 'Straight Outta Compton'?",
+                "options": [
+                    "N.W.A",
+                    "Outkast",
+                    "A Tribe Called Quest",
+                    "Public Enemy"
+                ],
+                "answer": "N.W.A"
+            },
+            {
+                "question": "Who is known as the 'Godfather of Hip Hop'?",
+                "options": [
+                    "DJ Kool Herc",
+                    "Grandmaster Flash",
+                    "Afrika Bambaataa",
+                    "Kurtis Blow"
+                ],
+                "answer": "DJ Kool Herc"
+            },
+            {
+                "question": "Which hip hop artist released the album 'The Marshall Mathers LP'?",
+                "options": [
+                    "Eminem",
+                    "50 Cent",
+                    "Tupac Shakur",
+                    "Dr. Dre"
+                ],
+                "answer": "Eminem"
+            },
+            {
+                "question": "Who was the first hip hop artist to win the Pulitzer Prize for Music?",
+                "options": [
+                    "Kendrick Lamar",
+                    "Jay-Z",
+                    "Nas",
+                    "Dr. Dre"
+                ],
+                "answer": "Kendrick Lamar"
+            }
+        ]
+    },
+    {
+        "category": "Rap Music",
+        "questions": [
+            {
+                "question": "Who is often referred to as the 'King of Rap'?",
+                "options": [
+                    "Eminem",
+                    "Jay-Z",
+                    "Nas",
+                    "Kanye West"
+                ],
+                "answer": "Eminem"
+            },
+            {
+                "question": "Which rapper released the album 'The Chronic'?",
+                "options": [
+                    "Dr. Dre",
+                    "Snoop Dogg",
+                    "Ice Cube",
+                    "Tupac Shakur"
+                ],
+                "answer": "Dr. Dre"
+            },
+            {
+                "question": "Which rapper is known for the song 'Juicy'?",
+                "options": [
+                    "The Notorious B.I.G.",
+                    "Tupac Shakur",
+                    "Nas",
+                    "Jay-Z"
+                ],
+                "answer": "The Notorious B.I.G."
+            },
+            {
+                "question": "Who released the rap album 'The Blueprint'?",
+                "options": [
+                    "Jay-Z",
+                    "Kanye West",
+                    "Nas",
+                    "Eminem"
+                ],
+                "answer": "Jay-Z"
+            },
+            {
+                "question": "Which rapper is known for his alter ego 'Slim Shady'?",
+                "options": [
+                    "Eminem",
+                    "Kanye West",
+                    "Drake",
+                    "Snoop Dogg"
+                ],
+                "answer": "Eminem"
+            },
+            {
+                "question": "Which rapper is known for the song 'Gin and Juice'?",
+                "options": [
+                    "Snoop Dogg",
+                    "Eminem",
+                    "Dr. Dre",
+                    "Tupac Shakur"
+                ],
+                "answer": "Snoop Dogg"
+            },
+            {
+                "question": "Who is considered the founder of gangsta rap?",
+                "options": [
+                    "Ice-T",
+                    "Ice Cube",
+                    "Eazy-E",
+                    "Tupac Shakur"
+                ],
+                "answer": "Ice-T"
+            },
+            {
+                "question": "Which rapper is known for the album 'Illmatic'?",
+                "options": [
+                    "Nas",
+                    "Jay-Z",
+                    "Kendrick Lamar",
+                    "Notorious B.I.G."
+                ],
+                "answer": "Nas"
+            },
+            {
+                "question": "Who coined the term 'bling bling'?",
+                "options": [
+                    "Lil Wayne",
+                    "Snoop Dogg",
+                    "Puff Daddy",
+                    "Jay-Z"
+                ],
+                "answer": "Lil Wayne"
+            },
+            {
+                "question": "Which rapper famously said, 'I got 99 problems but a b**** ain't one'?",
+                "options": [
+                    "Jay-Z",
+                    "Tupac Shakur",
+                    "Notorious B.I.G.",
+                    "Nas"
+                ],
+                "answer": "Jay-Z"
+            }
+        ]
+    },
+    {
+        "category": "Classical Music",
+        "questions": [
+            {
+                "question": "Who composed the famous Symphony No. 9 in D minor, Op. 125, also known as the 'Choral Symphony'?",
+                "options": [
+                    "Ludwig van Beethoven",
+                    "Wolfgang Amadeus Mozart",
+                    "Johann Sebastian Bach",
+                    "Franz Schubert"
+                ],
+                "answer": "Ludwig van Beethoven"
+            },
+            {
+                "question": "Which composer is known for 'The Four Seasons'?",
+                "options": [
+                    "Antonio Vivaldi",
+                    "Johann Strauss II",
+                    "Pyotr Ilyich Tchaikovsky",
+                    "Claude Debussy"
+                ],
+                "answer": "Antonio Vivaldi"
+            },
+            {
+                "question": "Who composed 'The Marriage of Figaro'?",
+                "options": [
+                    "Wolfgang Amadeus Mozart",
+                    "Ludwig van Beethoven",
+                    "Giuseppe Verdi",
+                    "Richard Wagner"
+                ],
+                "answer": "Wolfgang Amadeus Mozart"
+            },
+            {
+                "question": "Which composer is famous for 'The Magic Flute'?",
+                "options": [
+                    "Wolfgang Amadeus Mozart",
+                    "Johannes Brahms",
+                    "Gioachino Rossini",
+                    "Richard Strauss"
+                ],
+                "answer": "Wolfgang Amadeus Mozart"
+            },
+            {
+                "question": "Who composed 'Swan Lake'?",
+                "options": [
+                    "Pyotr Ilyich Tchaikovsky",
+                    "Ludwig van Beethoven",
+                    "Franz Liszt",
+                    "Johannes Brahms"
+                ],
+                "answer": "Pyotr Ilyich Tchaikovsky"
+            }
+        ]
+    },
+    {
+        "category": "Electronic Music",
+        "questions": [
+            {
+                "question": "Which electronic music duo produced the album 'Random Access Memories', featuring the hit single 'Get Lucky'?",
+                "options": [
+                    "Daft Punk",
+                    "The Chemical Brothers",
+                    "Justice",
+                    "The Prodigy"
+                ],
+                "answer": "Daft Punk"
+            },
+            {
+                "question": "Which DJ and record producer is known for hits like 'Titanium' and 'Hey Mama'?",
+                "options": [
+                    "David Guetta",
+                    "Calvin Harris",
+                    "Martin Garrix",
+                    "Tiesto"
+                ],
+                "answer": "David Guetta"
+            },
+            {
+                "question": "Which electronic music artist released the album 'Discovery', featuring the song 'One More Time'?",
+                "options": [
+                    "Daft Punk",
+                    "Deadmau5",
+                    "Avicii",
+                    "Skrillex"
+                ],
+                "answer": "Daft Punk"
+            },
+            {
+                "question": "Which electronic music festival takes place annually in the Nevada desert?",
+                "options": [
+                    "Burning Man",
+                    "Ultra Music Festival",
+                    "Electric Daisy Carnival",
+                    "Coachella"
+                ],
+                "answer": "Burning Man"
+            },
+            {
+                "question": "Which electronic music genre emerged in the 1990s, characterized by fast beats and futuristic sounds?",
+                "options": [
+                    "Trance",
+                    "Dubstep",
+                    "Drum and Bass",
+                    "Techno"
+                ],
+                "answer": "Trance"
+            },
+            {
+                "question": "Which electronic music producer is known for tracks like 'Strobe' and 'Ghosts 'n' Stuff'?",
+                "options": [
+                    "Deadmau5",
+                    "Skrillex",
+                    "Zedd",
+                    "Marshmello"
+                ],
+                "answer": "Deadmau5"
+            },
+            {
+                "question": "What is the name of the electronic music festival held annually in Miami, Florida?",
+                "options": [
+                    "Tomorrowland",
+                    "EDC Las Vegas",
+                    "Ultra Music Festival",
+                    "Creamfields"
+                ],
+                "answer": "Ultra Music Festival"
+            },
+            {
+                "question": "Which electronic music duo is known for the song 'Don't Let Me Down' featuring Daya?",
+                "options": [
+                    "The Chainsmokers",
+                    "Disclosure",
+                    "Galantis",
+                    "Axwell Λ Ingrosso"
+                ],
+                "answer": "The Chainsmokers"
+            },
+            {
+                "question": "Which DJ and producer founded the record label 'Axtone Records'?",
+                "options": [
+                    "Axwell",
+                    "Alesso",
+                    "Steve Angello",
+                    "Sebastian Ingrosso"
+                ],
+                "answer": "Axwell"
+            },
+            {
+                "question": "Which electronic music artist released the hit single 'Clarity' featuring Foxes?",
+                "options": [
+                    "Calvin Harris",
+                    "Zedd",
+                    "Skrillex",
+                    "David Guetta"
+                ],
+                "answer": "Zedd"
+            }
+        ]
+    },
+    {
+        "category": "Jazz Music",
+        "questions": [
+            {
+                "question": "Who is known as the 'King of Jazz'?",
+                "options": [
+                    "Louis Armstrong",
+                    "Duke Ellington",
+                    "Miles Davis",
+                    "Charlie Parker"
+                ],
+                "answer": "Duke Ellington"
+            },
+            {
+                "question": "Which jazz musician is famous for his rendition of 'Take Five'?",
+                "options": [
+                    "John Coltrane",
+                    "Thelonious Monk",
+                    "Dave Brubeck",
+                    "Charlie Parker"
+                ],
+                "answer": "Dave Brubeck"
+            },
+            {
+                "question": "Which jazz singer is known for her unique scat singing style?",
+                "options": [
+                    "Ella Fitzgerald",
+                    "Billie Holiday",
+                    "Sarah Vaughan",
+                    "Nina Simone"
+                ],
+                "answer": "Ella Fitzgerald"
+            },
+            {
+                "question": "Who composed the jazz standard 'All Blues'?",
+                "options": [
+                    "Louis Armstrong",
+                    "Miles Davis",
+                    "Dizzy Gillespie",
+                    "Charlie Parker"
+                ],
+                "answer": "Miles Davis"
+            },
+            {
+                "question": "Which jazz musician is credited with pioneering bebop?",
+                "options": [
+                    "Louis Armstrong",
+                    "Charlie Parker",
+                    "Duke Ellington",
+                    "Thelonious Monk"
+                ],
+                "answer": "Charlie Parker"
+            },
+            {
+                "question": "Which jazz pianist was nicknamed 'The Genius'?",
+                "options": [
+                    "Art Tatum",
+                    "Oscar Peterson",
+                    "Erroll Garner",
+                    "Keith Jarrett"
+                ],
+                "answer": "Art Tatum"
+            },
+            {
+                "question": "Who composed the iconic jazz standard 'So What'?",
+                "options": [
+                    "Thelonious Monk",
+                    "John Coltrane",
+                    "Miles Davis",
+                    "Duke Ellington"
+                ],
+                "answer": "Miles Davis"
+            },
+            {
+                "question": "Which jazz saxophonist was known for his association with the bebop movement and his performances at Minton's Playhouse in Harlem?",
+                "options": [
+                    "Charlie Parker",
+                    "John Coltrane",
+                    "Dexter Gordon",
+                    "Sonny Rollins"
+                ],
+                "answer": "Charlie Parker"
+            },
+            {
+                "question": "Who is considered one of the pioneers of jazz fusion, blending jazz with elements of rock and funk?",
+                "options": [
+                    "Herbie Hancock",
+                    "Chick Corea",
+                    "Stan Getz",
+                    "Weather Report"
+                ],
+                "answer": "Herbie Hancock"
+            },
+            {
+                "question": "Which jazz trumpeter was known for his virtuosic playing and innovative use of the trumpet?",
+                "options": [
+                    "Dizzy Gillespie",
+                    "Clifford Brown",
+                    "Lee Morgan",
+                    "Freddie Hubbard"
+                ],
+                "answer": "Dizzy Gillespie"
+            }
+        ]
+    },
+    {
+        "category": "Pop Music",
+        "questions": [
+            {
+                "question": "Which pop artist released the hit song 'Shape of You'?",
+                "options": [
+                    "Justin Bieber",
+                    "Ed Sheeran",
+                    "Shawn Mendes",
+                    "Ariana Grande"
+                ],
+                "answer": "Ed Sheeran"
+            },
+            {
+                "question": "Who is known as the 'King of Pop'?",
+                "options": [
+                    "Elton John",
+                    "Michael Jackson",
+                    "Prince",
+                    "Justin Timberlake"
+                ],
+                "answer": "Michael Jackson"
+            },
+            {
+                "question": "Which pop singer's real name is Stefani Joanne Angelina Germanotta?",
+                "options": [
+                    "Katy Perry",
+                    "Lady Gaga",
+                    "Taylor Swift",
+                    "Rihanna"
+                ],
+                "answer": "Lady Gaga"
+            },
+            {
+                "question": "Which boy band released the hit song 'I Want It That Way'?",
+                "options": [
+                    "Backstreet Boys",
+                    "NSYNC",
+                    "New Kids on the Block",
+                    "One Direction"
+                ],
+                "answer": "Backstreet Boys"
+            },
+            {
+                "question": "Who is known for her album '1989' and singles like 'Shake It Off' and 'Blank Space'?",
+                "options": [
+                    "Katy Perry",
+                    "Taylor Swift",
+                    "Adele",
+                    "Beyoncé"
+                ],
+                "answer": "Taylor Swift"
+            },
+            {
+                "question": "Which pop artist's debut single was 'Baby One More Time'?",
+                "options": [
+                    "Britney Spears",
+                    "Christina Aguilera",
+                    "Jessica Simpson",
+                    "Miley Cyrus"
+                ],
+                "answer": "Britney Spears"
+            },
+            {
+                "question": "Which pop duo sang the song 'Wake Me Up Before You Go-Go'?",
+                "options": [
+                    "Wham!",
+                    "Hall & Oates",
+                    "Pet Shop Boys",
+                    "Tears for Fears"
+                ],
+                "answer": "Wham!"
+            },
+            {
+                "question": "Who performed the hit song 'Uptown Funk' featuring Bruno Mars?",
+                "options": [
+                    "Pharrell Williams",
+                    "Mark Ronson",
+                    "Justin Timberlake",
+                    "Bruno Mars"
+                ],
+                "answer": "Mark Ronson"
+            },
+            {
+                "question": "Which pop artist released the album '25', featuring the song 'Hello'?",
+                "options": [
+                    "Adele",
+                    "Beyoncé",
+                    "Rihanna",
+                    "Ariana Grande"
+                ],
+                "answer": "Adele"
+            },
+            {
+                "question": "Who is known for the hit single 'Poker Face'?",
+                "options": [
+                    "Katy Perry",
+                    "Lady Gaga",
+                    "Beyoncé",
+                    "Rihanna"
+                ],
+                "answer": "Lady Gaga"
+            },
+            {
+                "question": "Who sang the pop ballad 'My Heart Will Go On' for the movie 'Titanic'?",
+                "options": [
+                    "Mariah Carey",
+                    "Whitney Houston",
+                    "Celine Dion",
+                    "Adele"
+                ],
+                "answer": "Celine Dion"
+            }
+        ]
+    },
+    {
+        "category": "Country Music",
+        "questions": [
+            {
+                "question": "Who is known as the 'King of Country'?",
+                "options": [
+                    "Garth Brooks",
+                    "Johnny Cash",
+                    "George Strait",
+                    "Willie Nelson"
+                ],
+                "answer": "George Strait"
+            },
+            {
+                "question": "Which country singer is known for hits like 'Before He Cheats' and 'Jesus, Take the Wheel'?",
+                "options": [
+                    "Miranda Lambert",
+                    "Carrie Underwood",
+                    "Shania Twain",
+                    "Faith Hill"
+                ],
+                "answer": "Carrie Underwood"
+            },
+            {
+                "question": "Who is known for the country classic 'Ring of Fire'?",
+                "options": [
+                    "Waylon Jennings",
+                    "Johnny Cash",
+                    "Merle Haggard",
+                    "Willie Nelson"
+                ],
+                "answer": "Johnny Cash"
+            },
+            {
+                "question": "Which country music legend recorded the album 'Stardust', featuring jazz standards?",
+                "options": [
+                    "Hank Williams",
+                    "Johnny Cash",
+                    "Merle Haggard",
+                    "Willie Nelson"
+                ],
+                "answer": "Willie Nelson"
+            },
+            {
+                "question": "Who is known as the 'Queen of Country'?",
+                "options": [
+                    "Dolly Parton",
+                    "Patsy Cline",
+                    "Loretta Lynn",
+                    "Tammy Wynette"
+                ],
+                "answer": "Dolly Parton"
+            },
+            {
+                "question": "Which country artist released the album 'Golden Hour' in 2018, winning Album of the Year at the Grammy Awards?",
+                "options": [
+                    "Kacey Musgraves",
+                    "Taylor Swift",
+                    "Miranda Lambert",
+                    "Carrie Underwood"
+                ],
+                "answer": "Kacey Musgraves"
+            },
+            {
+                "question": "Which country legend released the hit song 'Achy Breaky Heart' in 1992?",
+                "options": [
+                    "George Strait",
+                    "Alan Jackson",
+                    "Garth Brooks",
+                    "Billy Ray Cyrus"
+                ],
+                "answer": "Billy Ray Cyrus"
+            },
+            {
+                "question": "Who sang the country classic 'Stand by Your Man'?",
+                "options": [
+                    "Tammy Wynette",
+                    "Loretta Lynn",
+                    "Dolly Parton",
+                    "Patsy Cline"
+                ],
+                "answer": "Tammy Wynette"
+            },
+            {
+                "question": "Which country duo consists of Brian Kelley and Tyler Hubbard?",
+                "options": [
+                    "Florida Georgia Line",
+                    "Brooks & Dunn",
+                    "The Judds",
+                    "Big & Rich"
+                ],
+                "answer": "Florida Georgia Line"
+            },
+            {
+                "question": "Who is known for the country hits 'Whiskey Lullaby' and 'Mud on the Tires'?",
+                "options": [
+                    "Tim McGraw",
+                    "Brad Paisley",
+                    "Blake Shelton",
+                    "Jason Aldean"
+                ],
+                "answer": "Brad Paisley"
+            }
+        ]
     }
 ]

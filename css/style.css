@@ -225,3 +225,91 @@ body {
   position: relative;
   border-radius: 10px;
 }
+
+.cat-rock-music {
+  width: 100%;
+  height: 150px;
+  background: url("../img/trivia/rock-music.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-radius: 10px;
+}
+
+.cat-hip-hop-music {
+  width: 100%;
+  height: 150px;
+  background: url("../img/trivia/hip-hop-music.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-radius: 10px;
+}
+
+.cat-rap-music {
+  width: 100%;
+  height: 150px;
+  background: url("../img/trivia/rap-music.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-radius: 10px;
+}
+
+.cat-jazz-music {
+  width: 100%;
+  height: 150px;
+  background: url("../img/trivia/jazz-music.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-radius: 10px;
+}
+
+.cat-classical-music {
+  width: 100%;
+  height: 150px;
+  background: url("../img/trivia/classical-music.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-radius: 10px;
+}
+
+.cat-electronic-music {
+  width: 100%;
+  height: 150px;
+  background: url("../img/trivia/electronic-music.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-radius: 10px;
+}
+
+.cat-pop-music {
+  width: 100%;
+  height: 150px;
+  background: url("../img/trivia/pop-music.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-radius: 10px;
+}
+
+.cat-country-music {
+  width: 100%;
+  height: 150px;
+  background: url("../img/trivia/country-music.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-radius: 10px;
+}
