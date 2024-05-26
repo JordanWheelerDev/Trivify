@@ -1,0 +1,1010 @@
+[
+    {
+        "category": "NHL",
+        "questions": [
+            {
+                "question": "Which coach took the Chicago Blackhawks to the Stanley Cup Final in 1992?",
+                "options": [
+                    "John Tortorella",
+                    "Jon Cooper",
+                    "Mike Babcock",
+                    "Mike Keenan"
+                ],
+                "answer": "Mike Keenan"
+            },
+            {
+                "question": "Which Team Is Often Referred To As The 'Habs'?",
+                "options": [
+                    "Anaheim Ducks",
+                    "Tampa Bay Lightning",
+                    "Montreal Canadiens",
+                    "Florida Panthers"
+                ],
+                "answer": "Montreal Canadiens"
+            },
+            {
+                "question": "Which NHL Player Is Nicknamed 'The Great One'?",
+                "options": [
+                    "Wayne Gretzy",
+                    "Alexander Ovechkin",
+                    "Mario Lemieux",
+                    "Sydney Crosby"
+                ],
+                "answer": "Wayne Gretzy"
+            },
+            {
+                "question": "Which Team Won The Stanley Cup In 1994, Breaking A 54-Year Drought?",
+                "options": [
+                    "Detroit Red Wings",
+                    "New York Rangers",
+                    "New York Islanders",
+                    "Boston Bruins"
+                ],
+                "answer": "New York Rangers"
+            },
+            {
+                "question": "Who Became The Youngest NHL Captain At Age 19?",
+                "options": [
+                    "Sydney Crosby",
+                    "Jack Eichel",
+                    "Steven Stamkos",
+                    "Connor McDavid"
+                ],
+                "answer": "Connor McDavid"
+            },
+            {
+                "question": "What Trophy Is Awarded To The NHL's Best Defenseman?",
+                "options": [
+                    "Lady Byng Trophy",
+                    "Hart Medley Trophy",
+                    "Norris Trophy",
+                    "Stanley Cup"
+                ],
+                "answer": "Norris Trophy"
+            },
+            {
+                "question": "Which NHL Player Holds The Record For Most Career Points?",
+                "options": [
+                    "Martin Brodeur",
+                    "Wayne Gretzky",
+                    "Jordan Staal",
+                    "Pavel Bure"
+                ],
+                "answer": "Wayne Gretzy"
+            },
+            {
+                "question": "Which NHL Player Holds The Record For Most Career Assists?",
+                "options": [
+                    "Mark Messier",
+                    "Gordie Howe",
+                    "Mario Lemieux",
+                    "Wayne Gretzky"
+                ],
+                "answer": "Wayne Gretzky"
+            },
+            {
+                "question": "Which NHL Player Has Won The Most Stanley Cup Championships?",
+                "options": [
+                    "Jean Beliveau",
+                    "Maurice Richard",
+                    "Henri Richard",
+                    "Yvan Cournoyer"
+                ],
+                "answer": "Henri Richard"
+            },
+            {
+                "question": "Who Was The First European-Born Player To Be Drafted First Overall In The NHL Entry Draft?",
+                "options": [
+                    "Mats Sundin",
+                    "Alexander Ovechkin",
+                    "Nikita Kucherov",
+                    "Nico Hischier"
+                ],
+                "answer": "Mats Sundin"
+            }
+        ]
+    },
+    {
+        "category": "MLB",
+        "questions": [
+            {
+                "question": "Who was the first player to reach 4000 career hits?",
+                "options": [
+                    "Stan Musial",
+                    "Hank Aaron",
+                    "Pete Rose",
+                    "Ty Cobb"
+                ],
+                "answer": "Ty Cobb"
+            },
+            {
+                "question": "Lou Gehrig holds the record for the most career grand slams.",
+                "options": [
+                    "False",
+                    "True"
+                ],
+                "answer": "False"
+            },
+            {
+                "question": "Randy Johnson holds the record for the most career strikeouts in MLB history.",
+                "options": [
+                    "True",
+                    "False"
+                ],
+                "answer": "False"
+            },
+            {
+                "question": "Who hit more home runs during their career, Manny Ramirez or David Ortiz?",
+                "options": [
+                    "Manny Ramirez",
+                    "David Ortiz"
+                ],
+                "answer": "Manny Ramirez"
+            },
+            {
+                "question": "In 1998, David Wells of the New York Yankees pitched a perfect game. Which team was this against?",
+                "options": [
+                    "Minnesota Twins",
+                    "Baltimore Orioles",
+                    "Cleveland Indians",
+                    "Toronto Blue Jays"
+                ],
+                "answer": "Minnesota Twins"
+            },
+            {
+                "question": "Which team won the first World Series in 1903?",
+                "options": [
+                    "Boston Americans",
+                    "Cleveland Naps",
+                    "Detroit Tigers",
+                    "Chicago White Stocklings"
+                ],
+                "answer": "Boston Americans"
+            },
+            {
+                "question": "Cal Ripken Jr holds the record for the most consecutive games played in history at 2,632. What year was this streak broken?",
+                "options": [
+                    "1996",
+                    "1997",
+                    "1998",
+                    "1999"
+                ],
+                "answer": "1998"
+            },
+            {
+                "question": "Which player was the first-ever MLB Rookie of the Year award winner?",
+                "options": [
+                    "Alvin Dark",
+                    "Jackie Robinson",
+                    "Walt Dropo",
+                    "Roy Sievers"
+                ],
+                "answer": "Jackie Robinson"
+            },
+            {
+                "question": "Which of these positions did Babe Ruth play, other than outfield?",
+                "options": [
+                    "Pitcher",
+                    "Catcher",
+                    "First Base",
+                    "Second Base"
+                ],
+                "answer": "Pitcher"
+            },
+            {
+                "question": "Who finished their career with more hits, Alex Rodriguez, Derek Jeter, or Willie Mays?",
+                "options": [
+                    "Alex Rodriguez",
+                    "Derek Jeter",
+                    "Willie Mays"
+                ],
+                "answer": "Derek Jeter"
+            }
+        ]
+    },
+    {
+        "category": "Soccer",
+        "questions": [
+            {
+                "question": "Who Is The All-Time Leading Scorer In FIFA World Cup History?",
+                "options": [
+                    "Pele",
+                    "Lionel Messi",
+                    "Cristiano Ronaldo",
+                    "Miroslav Klose"
+                ],
+                "answer": "Miroslav Klose"
+            },
+            {
+                "question": "Which Country Has Won The Most FIFA World Cup Titles?",
+                "options": [
+                    "Brazil",
+                    "Germany",
+                    "Italy",
+                    "Argentina"
+                ],
+                "answer": "Brazil"
+            },
+            {
+                "question": "Who Won The FIFA Women's World Cup In 2019?",
+                "options": [
+                    "United States",
+                    "Germany",
+                    "Sweden",
+                    "Netherlands"
+                ],
+                "answer": "United States"
+            },
+            {
+                "question": "Which Player Has Won The Most FIFA Ballon d'Or Awards?",
+                "options": [
+                    "Lionel Messi",
+                    "Cristiano Ronaldo",
+                    "Diego Maradona",
+                    "Zinedine Zidane"
+                ],
+                "answer": "Lionel Messi"
+            },
+            {
+                "question": "Which Club Has Won The Most UEFA Champions League Titles?",
+                "options": [
+                    "Barcelona",
+                    "Real Madrid",
+                    "Bayern Munich",
+                    "Liverpool"
+                ],
+                "answer": "Real Madrid"
+            },
+            {
+                "question": "Who Scored The Famous 'Hand of God' Goal in the 1986 FIFA World Cup Quarterfinals?",
+                "options": [
+                    "Diego Maradona",
+                    "Pele",
+                    "Zinedine Zidane",
+                    "Roberto Baggio"
+                ],
+                "answer": "Diego Maradona"
+            },
+            {
+                "question": "Which Country Won The First-Ever FIFA World Cup?",
+                "options": [
+                    "Uruguay",
+                    "Italy",
+                    "Brazil",
+                    "Germany"
+                ],
+                "answer": "Uruguay"
+            },
+            {
+                "question": "Who Holds The Record For Most Goals Scored In A Single FIFA World Cup Tournament?",
+                "options": [
+                    "Ronaldo",
+                    "Miroslav Klose",
+                    "Just Fontaine",
+                    "Gary Lineker"
+                ],
+                "answer": "Just Fontaine"
+            },
+            {
+                "question": "Which Player Won The Golden Boot Award In The 2018 FIFA World Cup?",
+                "options": [
+                    "Lionel Messi",
+                    "Cristiano Ronaldo",
+                    "Harry Kane",
+                    "Kylian Mbappe"
+                ],
+                "answer": "Harry Kane"
+            },
+            {
+                "question": "Who Is The All-Time Leading Scorer In UEFA European Championship History?",
+                "options": [
+                    "Cristiano Ronaldo",
+                    "Michel Platini",
+                    "Alan Shearer",
+                    "Thierry Henry"
+                ],
+                "answer": "Cristiano Ronaldo"
+            }
+        ]
+    },
+    {
+        "category": "NBA",
+        "questions": [
+            {
+                "question": "Which player holds the record for the most points scored in a single NBA game?",
+                "options": [
+                    "Michael Jordan",
+                    "Kobe Bryant",
+                    "Wilt Chamberlain",
+                    "LeBron James"
+                ],
+                "answer": "Wilt Chamberlain"
+            },
+            {
+                "question": "Which team has won the most NBA championships?",
+                "options": [
+                    "Los Angeles Lakers",
+                    "Boston Celtics",
+                    "Chicago Bulls",
+                    "San Antonio Spurs"
+                ],
+                "answer": "Boston Celtics"
+            },
+            {
+                "question": "Who is the all-time leading scorer in NBA history?",
+                "options": [
+                    "Kareem Abdul-Jabbar",
+                    "Karl Malone",
+                    "Michael Jordan",
+                    "Kobe Bryant"
+                ],
+                "answer": "Kareem Abdul-Jabbar"
+            },
+            {
+                "question": "Which player has won the most NBA MVP awards?",
+                "options": [
+                    "Michael Jordan",
+                    "LeBron James",
+                    "Kareem Abdul-Jabbar",
+                    "Bill Russell"
+                ],
+                "answer": "Kareem Abdul-Jabbar"
+            },
+            {
+                "question": "Which team drafted Kobe Bryant?",
+                "options": [
+                    "Los Angeles Lakers",
+                    "Charlotte Hornets",
+                    "Philadelphia 76ers",
+                    "Chicago Bulls"
+                ],
+                "answer": "Charlotte Hornets"
+            },
+            {
+                "question": "Who was the first player to be drafted number one overall without playing college or professional basketball in the US?",
+                "options": [
+                    "Dirk Nowitzki",
+                    "Yao Ming",
+                    "LeBron James",
+                    "Pau Gasol"
+                ],
+                "answer": "Yao Ming"
+            },
+            {
+                "question": "Which player is known as 'The Mailman'?",
+                "options": [
+                    "Shaquille O'Neal",
+                    "Karl Malone",
+                    "Hakeem Olajuwon",
+                    "Charles Barkley"
+                ],
+                "answer": "Karl Malone"
+            },
+            {
+                "question": "Which coach has won the most NBA championships?",
+                "options": [
+                    "Phil Jackson",
+                    "Gregg Popovich",
+                    "Red Auerbach",
+                    "Pat Riley"
+                ],
+                "answer": "Phil Jackson"
+            },
+            {
+                "question": "Which team did Michael Jordan finish his NBA career with?",
+                "options": [
+                    "Chicago Bulls",
+                    "Washington Wizards",
+                    "Miami Heat",
+                    "Los Angeles Lakers"
+                ],
+                "answer": "Washington Wizards"
+            },
+            {
+                "question": "Who holds the record for the most assists in a single NBA game?",
+                "options": [
+                    "Magic Johnson",
+                    "John Stockton",
+                    "Scott Skiles",
+                    "Steve Nash"
+                ],
+                "answer": "Scott Skiles"
+            },
+            {
+                "question": "Who was the first player in NBA history to be unanimously voted MVP?",
+                "options": [
+                    "Stephen Curry",
+                    "Michael Jordan",
+                    "LeBron James",
+                    "Shaquille O'Neal"
+                ],
+                "answer": "Stephen Curry"
+            },
+            {
+                "question": "Which player has the most career triple-doubles in NBA history?",
+                "options": [
+                    "Magic Johnson",
+                    "Jason Kidd",
+                    "Oscar Robertson",
+                    "Russell Westbrook"
+                ],
+                "answer": "Russell Westbrook"
+            },
+            {
+                "question": "Which team won the NBA championship in 2011?",
+                "options": [
+                    "Miami Heat",
+                    "Dallas Mavericks",
+                    "Boston Celtics",
+                    "San Antonio Spurs"
+                ],
+                "answer": "Dallas Mavericks"
+            },
+            {
+                "question": "Which player won the NBA Defensive Player of the Year award in 2021?",
+                "options": [
+                    "Rudy Gobert",
+                    "Giannis Antetokounmpo",
+                    "Draymond Green",
+                    "Anthony Davis"
+                ],
+                "answer": "Rudy Gobert"
+            },
+            {
+                "question": "Which team selected Dirk Nowitzki in the 1998 NBA Draft?",
+                "options": [
+                    "Dallas Mavericks",
+                    "Milwaukee Bucks",
+                    "San Antonio Spurs",
+                    "Phoenix Suns"
+                ],
+                "answer": "Milwaukee Bucks"
+            },
+            {
+                "question": "Who is the shortest player to ever play in the NBA?",
+                "options": [
+                    "Spud Webb",
+                    "Muggsy Bogues",
+                    "Earl Boykins",
+                    "Nate Robinson"
+                ],
+                "answer": "Muggsy Bogues"
+            },
+            {
+                "question": "Which player was known as 'The Admiral'?",
+                "options": [
+                    "Patrick Ewing",
+                    "David Robinson",
+                    "Tim Duncan",
+                    "Hakeem Olajuwon"
+                ],
+                "answer": "David Robinson"
+            },
+            {
+                "question": "Which NBA player was nicknamed 'The Answer'?",
+                "options": [
+                    "Allen Iverson",
+                    "Ray Allen",
+                    "Dwyane Wade",
+                    "Chris Paul"
+                ],
+                "answer": "Allen Iverson"
+            }
+        ]
+    },
+    {
+        "category": "NFL",
+        "questions": [
+            {
+                "question": "Which team won the first Super Bowl?",
+                "options": [
+                    "Green Bay Packers",
+                    "Kansas City Chiefs",
+                    "New York Jets",
+                    "Dallas Cowboys"
+                ],
+                "answer": "Green Bay Packers"
+            },
+            {
+                "question": "Who holds the record for the most career touchdown passes in the NFL?",
+                "options": [
+                    "Tom Brady",
+                    "Drew Brees",
+                    "Peyton Manning",
+                    "Brett Favre"
+                ],
+                "answer": "Tom Brady"
+            },
+            {
+                "question": "Which player is known as 'The Bus'?",
+                "options": [
+                    "Jerome Bettis",
+                    "LaDainian Tomlinson",
+                    "Marshall Faulk",
+                    "Emmitt Smith"
+                ],
+                "answer": "Jerome Bettis"
+            },
+            {
+                "question": "Which team has the most Super Bowl victories?",
+                "options": [
+                    "Pittsburgh Steelers",
+                    "New England Patriots",
+                    "San Francisco 49ers",
+                    "Dallas Cowboys"
+                ],
+                "answer": "Pittsburgh Steelers"
+            },
+            {
+                "question": "Who is the NFL's all-time leading rusher?",
+                "options": [
+                    "Emmitt Smith",
+                    "Walter Payton",
+                    "Barry Sanders",
+                    "Adrian Peterson"
+                ],
+                "answer": "Emmitt Smith"
+            },
+            {
+                "question": "Which player has the most career interceptions?",
+                "options": [
+                    "Rod Woodson",
+                    "Ed Reed",
+                    "Ronnie Lott",
+                    "Paul Krause"
+                ],
+                "answer": "Paul Krause"
+            },
+            {
+                "question": "Who was the first overall pick in the 2020 NFL Draft?",
+                "options": [
+                    "Joe Burrow",
+                    "Tua Tagovailoa",
+                    "Justin Herbert",
+                    "Chase Young"
+                ],
+                "answer": "Joe Burrow"
+            },
+            {
+                "question": "Which team is known as 'America's Team'?",
+                "options": [
+                    "Dallas Cowboys",
+                    "New England Patriots",
+                    "Green Bay Packers",
+                    "Pittsburgh Steelers"
+                ],
+                "answer": "Dallas Cowboys"
+            },
+            {
+                "question": "Which player is the NFL's all-time leader in receiving yards?",
+                "options": [
+                    "Jerry Rice",
+                    "Randy Moss",
+                    "Terrell Owens",
+                    "Larry Fitzgerald"
+                ],
+                "answer": "Jerry Rice"
+            },
+            {
+                "question": "Who was the MVP of Super Bowl LIII?",
+                "options": [
+                    "Julian Edelman",
+                    "Tom Brady",
+                    "Aaron Donald",
+                    "Todd Gurley"
+                ],
+                "answer": "Julian Edelman"
+            },
+            {
+                "question": "Which NFL team has the nickname 'The Purple People Eaters'?",
+                "options": [
+                    "Minnesota Vikings",
+                    "Baltimore Ravens",
+                    "Los Angeles Rams",
+                    "Seattle Seahawks"
+                ],
+                "answer": "Minnesota Vikings"
+            },
+            {
+                "question": "Who holds the record for the most rushing touchdowns in a single season?",
+                "options": [
+                    "LaDainian Tomlinson",
+                    "Emmitt Smith",
+                    "Shaun Alexander",
+                    "Priest Holmes"
+                ],
+                "answer": "LaDainian Tomlinson"
+            },
+            {
+                "question": "Which player famously guaranteed a victory in Super Bowl III and delivered?",
+                "options": [
+                    "Joe Namath",
+                    "Johnny Unitas",
+                    "Bart Starr",
+                    "Roger Staubach"
+                ],
+                "answer": "Joe Namath"
+            },
+            {
+                "question": "Which team was the first to go undefeated in the regular season and win the Super Bowl?",
+                "options": [
+                    "Miami Dolphins",
+                    "New England Patriots",
+                    "San Francisco 49ers",
+                    "Green Bay Packers"
+                ],
+                "answer": "Miami Dolphins"
+            },
+            {
+                "question": "Who is the NFL's all-time leader in sacks?",
+                "options": [
+                    "Bruce Smith",
+                    "Reggie White",
+                    "Kevin Greene",
+                    "Julius Peppers"
+                ],
+                "answer": "Bruce Smith"
+            },
+            {
+                "question": "Which team was the first to win six Super Bowls?",
+                "options": [
+                    "Pittsburgh Steelers",
+                    "New England Patriots",
+                    "Dallas Cowboys",
+                    "San Francisco 49ers"
+                ],
+                "answer": "Pittsburgh Steelers"
+            },
+            {
+                "question": "Which quarterback has the most career passing yards in the NFL?",
+                "options": [
+                    "Drew Brees",
+                    "Tom Brady",
+                    "Peyton Manning",
+                    "Brett Favre"
+                ],
+                "answer": "Drew Brees"
+            },
+            {
+                "question": "Which player was known as 'The Minister of Defense'?",
+                "options": [
+                    "Reggie White",
+                    "Lawrence Taylor",
+                    "Ray Lewis",
+                    "Dick Butkus"
+                ],
+                "answer": "Reggie White"
+            },
+            {
+                "question": "Which team drafted Aaron Rodgers in the first round of the 2005 NFL Draft?",
+                "options": [
+                    "Green Bay Packers",
+                    "San Francisco 49ers",
+                    "New York Jets",
+                    "Dallas Cowboys"
+                ],
+                "answer": "Green Bay Packers"
+            },
+            {
+                "question": "Who holds the record for the longest field goal in NFL history?",
+                "options": [
+                    "Justin Tucker",
+                    "Matt Prater",
+                    "Adam Vinatieri",
+                    "Jason Elam"
+                ],
+                "answer": "Justin Tucker"
+            }
+        ]
+    },
+    {
+        "category": "PGA",
+        "questions": [
+            {
+                "question": "Who has won the most major championships in golf?",
+                "options": [
+                    "Jack Nicklaus",
+                    "Tiger Woods",
+                    "Arnold Palmer",
+                    "Ben Hogan"
+                ],
+                "answer": "Jack Nicklaus"
+            },
+            {
+                "question": "Which golfer is known for the nickname 'The Golden Bear'?",
+                "options": [
+                    "Jack Nicklaus",
+                    "Tiger Woods",
+                    "Phil Mickelson",
+                    "Gary Player"
+                ],
+                "answer": "Jack Nicklaus"
+            },
+            {
+                "question": "Who was the first golfer to win the Masters Tournament four times?",
+                "options": [
+                    "Arnold Palmer",
+                    "Sam Snead",
+                    "Jack Nicklaus",
+                    "Ben Hogan"
+                ],
+                "answer": "Arnold Palmer"
+            },
+            {
+                "question": "Which golfer holds the record for the lowest score in a single round of a major?",
+                "options": [
+                    "Branden Grace",
+                    "Tiger Woods",
+                    "Rory McIlroy",
+                    "Greg Norman"
+                ],
+                "answer": "Branden Grace"
+            },
+            {
+                "question": "Which golfer has spent the most consecutive weeks as World Number 1?",
+                "options": [
+                    "Tiger Woods",
+                    "Greg Norman",
+                    "Dustin Johnson",
+                    "Rory McIlroy"
+                ],
+                "answer": "Tiger Woods"
+            },
+            {
+                "question": "Who is the youngest player to win the Masters Tournament?",
+                "options": [
+                    "Tiger Woods",
+                    "Jordan Spieth",
+                    "Seve Ballesteros",
+                    "Rory McIlroy"
+                ],
+                "answer": "Tiger Woods"
+            },
+            {
+                "question": "Which golfer won the U.S. Open in 2000 with a record 15-stroke margin?",
+                "options": [
+                    "Tiger Woods",
+                    "Phil Mickelson",
+                    "Ernie Els",
+                    "Lee Janzen"
+                ],
+                "answer": "Tiger Woods"
+            },
+            {
+                "question": "Which golfer is known for the phrase 'Be the right club today!'?",
+                "options": [
+                    "Hal Sutton",
+                    "Phil Mickelson",
+                    "Vijay Singh",
+                    "David Duval"
+                ],
+                "answer": "Hal Sutton"
+            },
+            {
+                "question": "Who won the 2019 Masters Tournament?",
+                "options": [
+                    "Tiger Woods",
+                    "Brooks Koepka",
+                    "Dustin Johnson",
+                    "Francesco Molinari"
+                ],
+                "answer": "Tiger Woods"
+            },
+            {
+                "question": "Which golfer has the nickname 'Lefty'?",
+                "options": [
+                    "Phil Mickelson",
+                    "Bubba Watson",
+                    "Mike Weir",
+                    "Brian Harman"
+                ],
+                "answer": "Phil Mickelson"
+            },
+            {
+                "question": "Which golfer won the Open Championship (British Open) three times in the 2000s?",
+                "options": [
+                    "Tiger Woods",
+                    "Phil Mickelson",
+                    "Padraig Harrington",
+                    "Ernie Els"
+                ],
+                "answer": "Tiger Woods"
+            },
+            {
+                "question": "Who is the only golfer to win the PGA Tour Player of the Year award 11 times?",
+                "options": [
+                    "Jack Nicklaus",
+                    "Tiger Woods",
+                    "Arnold Palmer",
+                    "Ben Hogan"
+                ],
+                "answer": "Tiger Woods"
+            },
+            {
+                "question": "Which golfer is known for winning the Masters Tournament with the famous 'shot in the dark'?",
+                "options": [
+                    "Phil Mickelson",
+                    "Bubba Watson",
+                    "Tiger Woods",
+                    "Sergio Garcia"
+                ],
+                "answer": "Tiger Woods"
+            },
+            {
+                "question": "Who was the first European to win the Masters Tournament?",
+                "options": [
+                    "Seve Ballesteros",
+                    "Nick Faldo",
+                    "Bernhard Langer",
+                    "Jose Maria Olazabal"
+                ],
+                "answer": "Seve Ballesteros"
+            },
+            {
+                "question": "Which golfer has the most career runner-up finishes in major championships?",
+                "options": [
+                    "Jack Nicklaus",
+                    "Tiger Woods",
+                    "Phil Mickelson",
+                    "Arnold Palmer"
+                ],
+                "answer": "Jack Nicklaus"
+            },
+            {
+                "question": "Who won the 2015 PGA Championship, becoming the first Australian to win it?",
+                "options": [
+                    "Jason Day",
+                    "Adam Scott",
+                    "Greg Norman",
+                    "Marc Leishman"
+                ],
+                "answer": "Jason Day"
+            },
+            {
+                "question": "Which golfer made history by winning the 2019 U.S. Open and the PGA Championship in the same year?",
+                "options": [
+                    "Brooks Koepka",
+                    "Dustin Johnson",
+                    "Jordan Spieth",
+                    "Justin Thomas"
+                ],
+                "answer": "Brooks Koepka"
+            },
+            {
+                "question": "Who is the oldest golfer to win a major championship?",
+                "options": [
+                    "Phil Mickelson",
+                    "Jack Nicklaus",
+                    "Tom Watson",
+                    "Julius Boros"
+                ],
+                "answer": "Phil Mickelson"
+            },
+            {
+                "question": "Which golfer famously declared, 'I'm playing some really great golf right now' after winning the 2006 Masters?",
+                "options": [
+                    "Phil Mickelson",
+                    "Tiger Woods",
+                    "Jim Furyk",
+                    "Ernie Els"
+                ],
+                "answer": "Phil Mickelson"
+            },
+            {
+                "question": "Who was the first African-American to play in the Masters Tournament?",
+                "options": [
+                    "Lee Elder",
+                    "Tiger Woods",
+                    "Charlie Sifford",
+                    "Calvin Peete"
+                ],
+                "answer": "Lee Elder"
+            }
+        ]
+    },
+    {
+        "category": "Tennis",
+        "questions": [
+            {
+                "question": "Who holds the record for the most Grand Slam singles titles in tennis history?",
+                "options": [
+                    "Rafael Nadal",
+                    "Roger Federer",
+                    "Novak Djokovic",
+                    "Serena Williams"
+                ],
+                "answer": "Serena Williams"
+            },
+            {
+                "question": "Which player won the most Wimbledon titles in the Open Era?",
+                "options": [
+                    "Roger Federer",
+                    "Pete Sampras",
+                    "Björn Borg",
+                    "Martina Navratilova"
+                ],
+                "answer": "Roger Federer"
+            },
+            {
+                "question": "Who was the youngest winner of a Grand Slam singles title in the Open Era?",
+                "options": [
+                    "Steffi Graf",
+                    "Martina Hingis",
+                    "Monica Seles",
+                    "Maria Sharapova"
+                ],
+                "answer": "Martina Hingis"
+            },
+            {
+                "question": "Which player holds the record for the longest match in tennis history at Wimbledon?",
+                "options": [
+                    "John Isner",
+                    "Nicolas Mahut",
+                    "Rafael Nadal",
+                    "Andy Murray"
+                ],
+                "answer": "John Isner"
+            },
+            {
+                "question": "Who was the first male player to win a Calendar Year Grand Slam in the Open Era?",
+                "options": [
+                    "Rod Laver",
+                    "Roger Federer",
+                    "Rafael Nadal",
+                    "Novak Djokovic"
+                ],
+                "answer": "Rod Laver"
+            },
+            {
+                "question": "Who holds the record for the most consecutive weeks as ATP World No. 1?",
+                "options": [
+                    "Novak Djokovic",
+                    "Pete Sampras",
+                    "Roger Federer",
+                    "Rafael Nadal"
+                ],
+                "answer": "Roger Federer"
+            },
+            {
+                "question": "Which player won the most French Open singles titles?",
+                "options": [
+                    "Rafael Nadal",
+                    "Björn Borg",
+                    "Chris Evert",
+                    "Martina Navratilova"
+                ],
+                "answer": "Rafael Nadal"
+            },
+            {
+                "question": "Who won the longest tie-break in a Grand Slam match at Wimbledon in 2010?",
+                "options": [
+                    "Roger Federer",
+                    "Rafael Nadal",
+                    "Novak Djokovic",
+                    "John Isner"
+                ],
+                "answer": "John Isner"
+            },
+            {
+                "question": "Which female player has won the most Grand Slam singles titles in the Open Era?",
+                "options": [
+                    "Serena Williams",
+                    "Martina Navratilova",
+                    "Steffi Graf",
+                    "Margaret Court"
+                ],
+                "answer": "Serena Williams"
+            },
+            {
+                "question": "Who is known as the 'King of Clay'?",
+                "options": [
+                    "Roger Federer",
+                    "Novak Djokovic",
+                    "Rafael Nadal",
+                    "Björn Borg"
+                ],
+                "answer": "Rafael Nadal"
+            }
+        ]
+    }
+]

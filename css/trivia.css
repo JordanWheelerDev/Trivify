@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+  height: 100vh;
+}
+
+.landing-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #0b151f;
+  background: url("https://raw.githubusercontent.com/JordanWheelerDev/Resumify-v2/main/imgs/modernbg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.landing-header h1 {
+  color: white;
+  font-size: 62px;
+}
+
+.landing-header span {
+  background: -webkit-linear-gradient(180deg, #958fc5, #b0d7fe);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.landing-header h2 {
+  color: white;
+  font-size: 44px;
+}
+
+#question {
+  color: white;
+  font-size: 24px;
+}
+
+.quiz-nav {
+  background-color: #0b151f;
+}
+
+.quiz-nav .navbar-brand {
+  color: white;
+  font-weight: bold;
+}
+
+.quiz-nav .nav-link {
+  color: white;
+}
+
+.landing-header h1 {
+  color: white;
+  font-size: 62px;
+}
+
+.landing-header span {
+  background: -webkit-linear-gradient(180deg, #958fc5, #b0d7fe);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.landing-header h2 {
+  color: white;
+  font-size: 44px;
+}
+
+.tt-button-primary-otl {
+  background-color: #0b151f;
+  border: 2px solid #958fc5;
+  color: white;
+  border-radius: 3px;
+  padding: 10px 10px;
+  transition: all 0.3s ease;
+}
+
+.tt-button-primary-otl:hover {
+  background-color: #958fc5;
+  border: 2px solid #0b151f;
+  color: white;
+}
+
+.tt-button-secondary-otl {
+  background-color: #0b151f;
+  border: 2px solid #b0d7fe;
+  color: white;
+  border-radius: 3px;
+  padding: 10px 10px;
+}
